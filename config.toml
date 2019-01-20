@@ -1,3 +1,26 @@
-baseURL = "http://iamrobots.com/"
-languageCode = "en-us"
-title = "I AM ROBOTS"
+baseURL = "https://iamrobots.com/"
+title = "Black & Light"
+author = "David Hamp-Gonsalves"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "I am robots"
+  disableWebFonts = false
+
+[[menu.main]]
+    name = "About"
+    url  = "/"
+[[menu.main]]
+    name = "Resume"
+    url  = "/files/david-lively-resume.pdf"
+[[menu.main]]
+    name = "Github"
+    url  = "https://github.com/iamrobots"
+# [[menu.main]]
+#     name = "Projects"
+#     url  = "/projects"
