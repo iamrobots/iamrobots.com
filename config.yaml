@@ -2,3 +2,16 @@ baseURL: ""
 languageCode: en-us
 title: iamrobots
 theme: iamrobots
+
+menu:
+  main:
+    - name: "home"
+      url: "/"
+      weight: 1
+    - name: "posts"
+      url: "/posts"
+      weight: 2
+    - name: "about"
+      url: "/about"
+      weight: 3
+  
