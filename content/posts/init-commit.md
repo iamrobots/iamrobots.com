@@ -4,7 +4,7 @@ date: 2022-09-18T10:41:21-07:00
 tags:
   - tasks
 description: "I am not a writer but lets write something today."
-draft: true
+draft: false
 ---
 
 First commit.

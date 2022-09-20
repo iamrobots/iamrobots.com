@@ -1,7 +1,8 @@
 ---
 title: "About"
 date: 2022-09-18T10:49:41-07:00
-draft: true
+tags:
+  - about
 ---
 
 Hello,
