@@ -1,17 +1,25 @@
-baseURL: ""
-languageCode: en-us
-title: iamrobots
-theme: iamrobots
+baseurl: "https://www.iamrobots.com/"
+title: "Black & Light"
+author: "David Lively"
+canonifyurls: true
+languagecode: "en"
+theme: "black-and-light"
+
+pygmentsstyle: "bw"
+pygmentscodefences: true
+
+params:
+  sitename: "i am robots"
+  disableWebFonts: false
 
 menu:
   main:
-    - name: "home"
-      url: "/"
-      weight: 1
-    - name: "posts"
-      url: "/posts"
-      weight: 2
     - name: "about"
       url: "/about"
+      weight: 1
+    - name: "github"
+      url: "https://github.com/iamrobots"
+      weight: 2
+    - name: "resume"
+      url: "/david-lively-resume.pdf"
       weight: 3
-  

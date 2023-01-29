@@ -1,8 +1,6 @@
 ---
-title: "About"
+title: "about"
 date: 2022-09-18T10:49:41-07:00
-tags:
-  - about
 ---
 
 Hello,

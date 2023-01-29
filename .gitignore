@@ -30,6 +30,9 @@ hugo.linux
 # Built Visual Studio Code Extensions
 *.vsix
 
+# idea
+.idea
+
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
 .history
