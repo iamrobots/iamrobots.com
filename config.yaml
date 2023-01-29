@@ -10,7 +10,7 @@ pygmentscodefences: true
 
 params:
   sitename: "i am robots"
-  disableWebFonts: false
+  disableWebFonts: true
 
 menu:
   main:
